@@ -1,7 +1,7 @@
 # Typescript series
 
 Code files for typescript series on youtube.
-click here to watch the series. [Click here](https://www.youtube.com/watch?v=j89BvWz8Eag&list=PLRAV69dS1uWRPSfKzwZsIm-Axxq-LxqhW)
+click here to watch the series. [Click here](https://www.youtube.com/watch?v=30LWjhZzg50&t=13s)
 
 ## Installation
 
@@ -24,37 +24,38 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## For 1 video
 Although it's better to watch as playlist but in case you are a fan of 1 long video, then here is the time stamp
 
+⭐️ **Contents** ⭐️
 
-00:00:00 - 00:06:51 - Why to learn typescript
-00:06:51 - 00:15:08 - Typescript is not what you think
-00:15:08 - 00:27:16 - How to install typescript
-00:27:16 - 00:39:04 - Your first intro to typescript docs
-00:39:04 - 00:46:35 - Number, boolean and type inference
-00:39:04 - 00:46:35 - Number, boolean and type inference
-00:46:35 - 00:51:13 - Don't use ANY in typescript
-00:51:13 - 01:02:38 - Do you really know functions in typescript
-01:02:38 - 01:15:21 - A better way to write function in typescript
-01:15:21 - 01:24:57 - Bad behaviour of objects in typescript
-01:24:57 - 01:32:11 - Type Aliases in Typescript
-01:32:11 - 01:41:56 - READONLY and optional in typescript
-01:41:56 - 01:49:46 - Array in Typescript
-01:49:46 - 02:04:29 - Union Types in TS
-02:04:29 - 02:14:16 - Tuples in typescript
-02:14:16 - 02:23:46 - Enums in typescript
-02:23:46 - 02:33:35 - interface in typescript
-02:33:35 - 02:38:51 - Interface vs Type in typescript
-02:38:51 - 02:53:27 - How to setup Typescript for real projects
-02:53:27 - 03:01:49 - Classes in typescript
-03:01:49 - 03:07:55 - Private Public in Typescript
-03:07:55 - 03:15:08 - Getters and Setters in typescript
-03:15:08 - 03:19:17 - Protected in Typescript
-03:19:17 - 03:25:48 - Why Interface is important in typescript
-03:25:48 - 03:35:19 - Abstract class in Typescript
-03:35:19 - 03:47:41 - Generics in Typescript
-03:47:41 - 03:55:50 - Generics in Array and Arrow functions in Typescript
-03:55:50 - 04:06:59 - Generic Classes in Typescript
-04:06:59 - 04:16:47 - Type Narrowing in typescript
-04:16:47 - 04:22:00 - The in operator narrowing
-04:22:00 - 04:31:18 - Instanceof and Type Predicates
-04:31:18 - 04:42:37 - Discriminated Union and Exhaustiveness Checking with never
-04:42:37 - 04:46:07 - Typescript End
+-   ⌨️ ([0:00:00](https://www.youtube.com/watch?v=30LWjhZzg50&t=0s)) Why to learn TypeScript
+-   ⌨️ ([0:07:08](https://www.youtube.com/watch?v=30LWjhZzg50&t=428s)) TypeScript is not what you think
+-   ⌨️ ([0:15:25](https://www.youtube.com/watch?v=30LWjhZzg50&t=925s)) How to install TypeScript
+-   ⌨️ ([0:27:33](https://www.youtube.com/watch?v=30LWjhZzg50&t=1653s)) Your first intro to TypeScript docs
+-   ⌨️ ([0:39:21](https://www.youtube.com/watch?v=30LWjhZzg50&t=2361s)) Number, boolean, and type inference
+-   ⌨️ ([0:39:21](https://www.youtube.com/watch?v=30LWjhZzg50&t=2361s)) Number, boolean, and type inference
+-   ⌨️ ([0:46:52](https://www.youtube.com/watch?v=30LWjhZzg50&t=2812s)) Don't use ANY
+-   ⌨️ ([0:51:30](https://www.youtube.com/watch?v=30LWjhZzg50&t=3090s)) Do you really know functions
+-   ⌨️ ([1:02:55](https://www.youtube.com/watch?v=30LWjhZzg50&t=3775s)) A better way to write function
+-   ⌨️ ([1:15:38](https://www.youtube.com/watch?v=30LWjhZzg50&t=4538s)) Bad behavior of objects
+-   ⌨️ ([1:25:14](https://www.youtube.com/watch?v=30LWjhZzg50&t=5114s)) Type Aliases
+-   ⌨️ ([1:32:28](https://www.youtube.com/watch?v=30LWjhZzg50&t=5548s)) READONLY and optional
+-   ⌨️ ([1:42:13](https://www.youtube.com/watch?v=30LWjhZzg50&t=6133s)) Array
+-   ⌨️ ([1:50:03](https://www.youtube.com/watch?v=30LWjhZzg50&t=6603s)) Union Types in TS
+-   ⌨️ ([2:04:46](https://www.youtube.com/watch?v=30LWjhZzg50&t=7486s)) Tuples
+-   ⌨️ ([2:14:33](https://www.youtube.com/watch?v=30LWjhZzg50&t=8073s)) Enums
+-   ⌨️ ([2:24:03](https://www.youtube.com/watch?v=30LWjhZzg50&t=8643s)) interface
+-   ⌨️ ([2:33:52](https://www.youtube.com/watch?v=30LWjhZzg50&t=9232s)) Interface vs Type
+-   ⌨️ ([2:39:08](https://www.youtube.com/watch?v=30LWjhZzg50&t=9548s)) How to setup Typescript for real projects
+-   ⌨️ ([2:53:44](https://www.youtube.com/watch?v=30LWjhZzg50&t=10424s)) Classes
+-   ⌨️ ([3:02:06](https://www.youtube.com/watch?v=30LWjhZzg50&t=10926s)) Private Public
+-   ⌨️ ([3:08:12](https://www.youtube.com/watch?v=30LWjhZzg50&t=11292s)) Getters and Setters
+-   ⌨️ ([3:15:25](https://www.youtube.com/watch?v=30LWjhZzg50&t=11725s)) Protected
+-   ⌨️ ([3:19:34](https://www.youtube.com/watch?v=30LWjhZzg50&t=11974s)) Why Interface is important
+-   ⌨️ ([3:26:05](https://www.youtube.com/watch?v=30LWjhZzg50&t=12365s)) Abstract class
+-   ⌨️ ([3:35:36](https://www.youtube.com/watch?v=30LWjhZzg50&t=12936s)) Generics
+-   ⌨️ ([3:47:58](https://www.youtube.com/watch?v=30LWjhZzg50&t=13678s)) Generics in Array and Arrow functions
+-   ⌨️ ([3:56:07](https://www.youtube.com/watch?v=30LWjhZzg50&t=14167s)) Generic Classes
+-   ⌨️ ([4:07:16](https://www.youtube.com/watch?v=30LWjhZzg50&t=14836s)) Type Narrowing
+-   ⌨️ ([4:17:04](https://www.youtube.com/watch?v=30LWjhZzg50&t=15424s)) The in operator narrowing
+-   ⌨️ ([4:22:17](https://www.youtube.com/watch?v=30LWjhZzg50&t=15737s)) Instanceof and Type Predicates
+-   ⌨️ ([4:31:35](https://www.youtube.com/watch?v=30LWjhZzg50&t=16295s)) Discriminated Union and Exhaustiveness Checking with never
+-   ⌨️ ([4:42:54](https://www.youtube.com/watch?v=30LWjhZzg50&t=16974s)) TypeScript End
